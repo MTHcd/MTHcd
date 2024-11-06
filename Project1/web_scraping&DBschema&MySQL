@@ -1,0 +1,6 @@
+- Choose a website and extract relevant information using web scraping (1);
+
+- design the schema to store the information with DBSchema (2);
+
+- store it in databases with a MySQL server (3);
+
