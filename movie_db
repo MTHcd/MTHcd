@@ -1,0 +1,24 @@
+Defining the tables
+
+# table about movies
+CREATE TABLE movies (movie_id INT PRIMARY KEY, title VARCHAR(20) NOT NULL, release_year INT NOT NULL, 
+genre_id INT NOT NULL, director_id INT NOT NULL, rating INT NOT NULL, runtime INT NOT NULL, summary VARCHAR(20) NOT
+NULL);
+
+# table about genres
+
+CREATE TABLE genres (genre_id INT AUTO_INCREMENT PRIMARY KEY, genre_name VARCHAR(20) NOT NULL);
+
+CREATE TABLE directors (director_id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(20) NOT NULL, birth_year INT NOT NULL);
+
+CREATE TABLE actors (actor_id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(20) NOT NULL, birth_year INT NOT NULL);
+
+CREATE TABLE movie_actors (movie_id INT AUTO_INCREMENT PRIMARY KEY, FOREIGN KEY (movie_id) REFERENCES 
+
+CREATE TABLE movie_actors (movie_id INT AUTO_INCREMENT PRIMARY KEY, actor_id INT NOT NULL, role_name VARCHAR(20) NOT
+NULL);
+
+CREATE TABLE ratings (rating_id INT AUTO_INCREMENT PRIMARY KEY, movie_id INT NOT NULL, rating_value INT NOT NULL, 
+user_id INT NOT NULL, rating_date DATE);
+
+
