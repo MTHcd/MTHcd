@@ -2,9 +2,9 @@
 
 ## Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://your-linkedin-profile.com](https://www.linkedin.com/in/mathieu-c-a0094a324/))
-[![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)]([https://your-medium-profile.com](https://medium.com/@mathm2551))
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)]([https://your-stackoverflow-profile.com](https://stackoverflow.com/users/28662435/math-math))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]())
+[![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)]()
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)]()
 
 ## Programming Languages:
 
